@@ -22,7 +22,7 @@ This project was developed as part of my Programming Fundamentals course. It pre
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/tera-username/Quiz-Application.git
+   git clone https://github.com/Alishbashahid-dev/Quiz-Application.git
 ```
 2. Compile the code
 ```bash
